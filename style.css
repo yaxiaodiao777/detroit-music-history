@@ -1,0 +1,27 @@
+Last login: Fri Nov 22 11:24:25 on ttys000
+yaya@diaoxiaoyadeMacBook-Pro ~ % >....                                          
+}
+
+form button {
+    padding: 0.7rem 2rem;
+    border: none;
+    background: #3d3d5c;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+form button:hover {
+    background: #575757;
+}
+
+/* Footer */
+footer {
+    background: #232323;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+zsh: parse error near `}'
+yaya@diaoxiaoyadeMacBook-Pro ~ % 
